@@ -107,7 +107,7 @@ const mentor = [
   {
     title: "Hackathiño mobilidade sostible",
     subtitle: "Mentor",
-    image: "assets/images/experience-page/uplift.png",
+    image: "assets/images/experience-page/hackathon-mobilidade.jpg",
     desp: "I was responsible for guiding the hackathon participants on the different stages and processes to be carried out during the event.",
   }
 ];
