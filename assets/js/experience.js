@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "FOSDEM 2020",
+    title: "FOSDEM",
     cardImage: "assets/images/experience-page/fosdem.png",
     description:
       "Attendant to the different talks and workshops of the event and to the waffle tasting in the city of Brussels.",
