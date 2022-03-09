@@ -2,7 +2,6 @@ AOS.init();
 
 //  Work experience cards
 
-
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
@@ -58,7 +57,6 @@ const showCards2 = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards2);
 
-
 // Volunteership Cards
 
 const volunteership = document.querySelector(".volunteership");
@@ -102,9 +100,7 @@ const showCards = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards);
 
-
 // Hackathon Section
-
 
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
@@ -119,7 +115,7 @@ const mentor = [
 const showCards3 = () => {
   let output = "";
   mentor.forEach(
-    ({ title, image, subtitle, desp}) =>
+    ({ title, image, subtitle, desp }) =>
       (output += `  
       <div class="blog-slider__item swiper-slide">
         <div class="blog-slider__img">
