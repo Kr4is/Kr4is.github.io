@@ -16,7 +16,7 @@ const exp = [
     cardImage: "assets/images/experience-page/sopra-steria.jpeg",
     place: "Sopra Steria",
     time: "(Sep, 18 - Sep, 19)",
-    desp: "<li>Development trac control applications for the Paris metro for RATP.</li><li>Java, Spring, RabbitMQ, Python, MongoDB, PostgreSQL, OpenGL, Git, Jenkins.</li>",
+    desp: "<li>Development track control applications for the Paris metro for RATP.</li><li>Java, Spring, RabbitMQ, Python, MongoDB, PostgreSQL, OpenGL, Git, Jenkins.</li>",
   },
   {
     title: "Curricular Intern",
@@ -109,6 +109,12 @@ const mentor = [
     subtitle: "Mentor",
     image: "assets/images/experience-page/hackathon-mobilidade.jpg",
     desp: "I was responsible for guiding the hackathon participants on the different stages and processes to be carried out during the event.",
+  },
+  {
+    title: "Hackupc 2022",
+    subtitle: "Hacker",
+    image: "assets/images/experience-page/hackupc_2022.png",
+    desp: "Attendee at the hackathon in which a mobile application was developed for the selection of recreational meeting places.",
   }
 ];
 

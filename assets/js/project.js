@@ -37,6 +37,14 @@ const projects = [
     Previewlink: "",
     Githublink: "https://gitlab.com/Kr4is/cpp-library",
   },
+  {
+    title: "StarBars",
+    cardImage: "assets/images/project-page/star-bars.png",
+    description: "Mobile application that solves the common problem of choosing a place to eat, drink something.",
+    tagimg: "https://gitlab.com/starbars/backend/-/raw/main/logo.png",
+    Previewlink: "https://starbars.gitlab.io/landing",
+    Githublink: "https://gitlab.com/starbars",
+  }
 ];
 
 // function for rendering project cards data
