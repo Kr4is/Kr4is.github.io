@@ -24,6 +24,11 @@ const moocscards = [
     cardImage: "assets/images/education-page/coursera2.svg",
     moocLink: "https://www.coursera.org/account/accomplishments/certificate/JZVYAQK9UM8W",
   },
+  {
+    title: "Iterative Tools for Data Scientists and Analysts",
+    cardImage: "assets/images/education-page/iterative-with-text.svg",
+    moocLink: "https://mycourse.app/unrDSFWxE5gocsuA8",
+  },
 ];
 
 const experience = [
