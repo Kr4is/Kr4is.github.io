@@ -24,6 +24,21 @@ const techStack = [
     langName:"C",
     langDesc:"<li>C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system</li>"
   },
+  {
+    langImage:"assets/images/techstack-page/docker.png",
+    langName:"Docker",
+    langDesc:"<li>Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/linux.png",
+    langName:"Linux",
+    langDesc:"<li>Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds</li>"
+  },
+  {
+    langImage:"assets/images/techstack-page/mlflow.svg",
+    langName:"MLflow",
+    langDesc:"<li>MLflow is a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models</li>"
+  },
 ];
 
 const displayTechStacksCards = () => {
