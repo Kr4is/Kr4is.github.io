@@ -115,6 +115,18 @@ const mentor = [
     subtitle: "Hacker",
     image: "assets/images/experience-page/hackupc_2022.png",
     desp: "Attendee at the hackathon in which a mobile application was developed for the selection of recreational meeting places.",
+  },
+  {
+    title: "HackUDC 2023",
+    subtitle: "Organizer",
+    image: "assets/images/experience-page/hackudc_2023.png",
+    desp: "I was responsible for guiding the hackathon participants on the different stages and processes to be carried out during the event.",
+  },
+  {
+    title: "Hackupc 2023",
+    subtitle: "Hacker",
+    image: "assets/images/experience-page/hackupc_2023.png",
+    desp: "Attendee at the hackathon in which a mobile application was developed for the selection of recreational meeting places.",
   }
 ];
 
