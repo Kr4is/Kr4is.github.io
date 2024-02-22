@@ -44,6 +44,14 @@ const projects = [
     tagimg: "https://gitlab.com/starbars/backend/-/raw/main/logo.png",
     Previewlink: "https://starbars.gitlab.io/landing",
     Githublink: "https://gitlab.com/starbars",
+  },
+  {
+    title: "Social Bagpiper",
+    cardImage: "assets/images/project-page/social-bagpiper.png",
+    description: "Social Bagpiper, is a collaborative platform and social networking where tradicional musicians and music lovers can connect and collaborate remotely.",
+    tagimg: "https://github.com/Kr4is/social-bagpiper/blob/master/social_bagpiper/media/logo.png",
+    Previewlink: "",
+    Githublink: "https://github.com/Kr4is/social-bagpiper/tree/master",
   }
 ];
 
