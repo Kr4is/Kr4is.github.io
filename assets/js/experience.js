@@ -127,7 +127,13 @@ const mentor = [
     subtitle: "Hacker",
     image: "assets/images/experience-page/hackupc_2023.png",
     desp: "Attendee at the hackathon in which a mobile application was developed for the selection of recreational meeting places.",
-  }
+  },
+  {
+    title: "HackUDC 2024",
+    subtitle: "Organizer",
+    image: "assets/images/experience-page/hackudc_2024.svg",
+    desp: "I was responsible for organize the event, guiding the hackathon participants on the different stages and processes to be carried out during the event.",
+  },
 ];
 
 const showCards3 = () => {
